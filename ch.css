@@ -1,0 +1,17 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Lalezar", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+a{
+  color: black;
+  margin-top: -600px;
+}
+h2{
+  position: absolute;
+}

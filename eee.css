@@ -1,0 +1,40 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Lalezar", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.hello{
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 90px;
+  background: black;
+  top: 0;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+a{
+  margin-top: -400px;
+  margin-left: -320px;
+  color: black;
+  background: #34E9FF;
+  width: 40px;
+  height: 30px;
+}
+.w{
+  color: white;
+  margin-left: 30px;
+  
+}
+.g{
+  margin-top: 200px;
+  height: 420px;
+}
